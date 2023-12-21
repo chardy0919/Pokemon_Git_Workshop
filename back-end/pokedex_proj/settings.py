@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     "pokemon_app",
     "rest_framework",
     "corsheaders",
+    "moves_app",
 ]
 
 MIDDLEWARE = [
